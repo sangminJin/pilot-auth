@@ -1,4 +1,4 @@
-package com.estsoft.pilotauth.domain.global.error;
+package com.estsoft.pilotauth.global.error;
 
 import lombok.Builder;
 import lombok.Getter;

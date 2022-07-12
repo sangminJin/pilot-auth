@@ -1,8 +1,10 @@
-package com.estsoft.pilotauth.global.domain.member.service;
+package com.estsoft.pilotauth.domain.member.service;
 
 
-import com.estsoft.pilotauth.global.domain.member.entity.Member;
-import com.estsoft.pilotauth.global.domain.member.repository.MemberRepository;
+import com.estsoft.pilotauth.domain.member.repository.MemberRepository;
+import com.estsoft.pilotauth.domain.member.entity.Member;
+import com.estsoft.pilotauth.global.error.exception.BusinessException;
+import com.estsoft.pilotauth.global.error.exception.ErrorCode;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,4 +1,4 @@
-package com.estsoft.pilotauth.domain.global.error.exception;
+package com.estsoft.pilotauth.global.error.exception;
 
 public class InvalidValueException extends BusinessException{
 

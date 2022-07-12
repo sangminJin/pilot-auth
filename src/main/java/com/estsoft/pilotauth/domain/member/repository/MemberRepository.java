@@ -1,6 +1,6 @@
-package com.estsoft.pilotauth.global.domain.member.repository;
+package com.estsoft.pilotauth.domain.member.repository;
 
-import com.estsoft.pilotauth.global.domain.member.entity.Member;
+import com.estsoft.pilotauth.domain.member.entity.Member;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

@@ -1,6 +1,5 @@
-package com.estsoft.pilotauth.global.domain.member.entity;
+package com.estsoft.pilotauth.domain.member.entity;
 
-import com.estsoft.pilot.domain.base.BaseTimeEntity;
 import lombok.AccessLevel;
 import lombok.Builder;
 import lombok.Getter;
